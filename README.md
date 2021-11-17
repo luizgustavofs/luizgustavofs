@@ -2,7 +2,6 @@
 
 - 🌱 Hoje estou aprendendo a programar em React Native
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/luizgustavofs">
