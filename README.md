@@ -1,6 +1,6 @@
 ### Olá, me chamo Luiz Gustavo. 👋
 
-- 🌱 Hoje estou aprendendo a programar em React Native
+- 🌱 Hoje sou desenvolvedor especializado em Front-end React/React Native.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
